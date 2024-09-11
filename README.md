@@ -16,12 +16,25 @@ You will need Dart installed on your computer to run this game. Download and ins
 
 ### Installation
 
-Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:
 
-```bash
-git clone https://github.com/Vasu-04/Tic-Tac-Toe.git
+    ```bash
+    git clone https://github.com/Vasu-04/Tic-Tac-Toe.git
 
-Clone the repository to your local machine using the following command:
+2. Navigate to the Project Directory:
 
-```bash
-git clone https://github.com/Vasu-04/Tic-Tac-Toe.git
+    ```bash
+    cd Tic-Tac-Toe
+
+3. Running the Game
+   Execute the game using Dart:
+     ```bash
+     dart run
+  Follow the on-screen prompts to make your moves. The game board will update based on your input, and the game will announce a winner once the end conditions are met.
+
+## Contributing
+Contributions are welcome. If you have ideas on how to improve this game or want to report bugs, please feel free to fork the repository and submit pull requests.
+
+## Acknowledgements
+1. Thanks to the Dart community for their comprehensive resources.
+2. Inspired by classic implementations of Tic Tac Toe.
